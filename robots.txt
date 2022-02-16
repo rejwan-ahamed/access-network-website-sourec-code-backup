@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /5mbps/
+Allow: /10mbps/
+Allow: /15mbps/
+Allow: /20mbps/
+Allow: /wp-content/
+Allow: /wp-content/uploads/2021/10
+Allow: /pages/thankyou.html
